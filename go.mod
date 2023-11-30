@@ -1,4 +1,4 @@
-module github.com/rahil7376/r-validator
+module github.com/rahil7376/rvalidator
 
 go 1.21.4
 
